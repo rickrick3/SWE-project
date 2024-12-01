@@ -1,1 +1,1 @@
-# SWE-project a plateform thta will ennable users (producers) to create and manage thier vitual shop.Adding thier thier products (including it prices, descrition, availability and position). The customer can then buy or purchase the producer product or services. 
+# SWE-project a plateform that will ensblr users (producers) to create and manage their vitual shop, add their products (including it price, description, availability and position). The customer can then buy or purchase the producer's product or services. 
